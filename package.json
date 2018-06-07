@@ -1,0 +1,15 @@
+{
+  "name": "getallcountries",
+  "version": "1.0.0",
+  "description": "This module gets you all the countries with detailed information of each country.",
+  "main": "getallcountries.js",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node getallcountries.js"
+  },
+  "author": "Devapriya.K <Devapriya.k@outlook.com>",
+  "license": "ISC"
+}
